@@ -1,5 +1,5 @@
 
-# Somali Developers list
+# Somali Developers
 
 Project-ga ujeedkiisu waa in qof walba oo somali ah project-gan ku daro magac-furehiisa(username) sidoo kale in la helo taxa somalida ee hawlkan technologyada , waana meel qof walba xogtiisa kusoo dari karo.
 

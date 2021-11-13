@@ -1,8 +1,14 @@
 ## Set up instructions
 
-First of all, this is a JavaScript project that's distributed on [npmjs.org](https://npmjs.org) and
-therefore uses JavaScript tooling based on [Node.js](https://nodejs.org/) with dependencies from npm.
-You're going to need to have those things installed to contribute to this project.
+## Talaabooyinka aad wax ugu dari kartid project-gan
+
+  - Ugu horayn Fork dheh adigoo xaga sare ee geeska midig ku arkaya calaamada fargeetadda.
+  - Kedib hadi aad Git ku isticmaashid computer-kaaga clone garayso ama copy ka samayso.
+  - Branch ama laan la dhaho **contribution/{magacaaga}** ka samayso
+  - **developers.md** fur kedibna meel dhexda ah magacaaga kudar **(NB:hakudarin magacaaga meesha ugu horaysa ama ugu danbeysa, sidoo kale dadka xogtooda waxba haka bedelin)** -
+  -
+
+## English 
 
 1. Fork the repo
 2. Clone your fork

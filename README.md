@@ -4,7 +4,7 @@
 Project-ga ujeedkiisu waa in qof walba oo somali ah project-gan ku daro magac-furehiisa(username) sidoo kale in la helo taxa somalida ee hawlkan technologyada , waana meel qof walba xogtiisa kusoo dari karo.
 
 ## Faa-iidooyinka uu bulshadeena u lee yahay waxaa kamid ah
-  - Hadii aadan weligaa project contribute garayn ,haseyeeshee aad github isticmaali jirtay tani  noqon doonto ka        qaybqaadashadaadii u horeysay.
+  - Hadii aadan weligaa project contribute garayn ,haseyeeshee aad github isticmaali jirtay tani  noqon doonto ka qaybqaadashadaadii u horeysay.
   - In dadka isku xirfadda ah ay sifudud isu heli karaan
   - In qof walba uu wax ku darsan karo ,khaasatan xogtiisa.
 

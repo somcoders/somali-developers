@@ -5,6 +5,7 @@
 - [abdifatah](https://github.com/abdifatahz)
 - [mohamedabdiahmed](https://github.com/mohamedabdiahmed)
 - [himadwise](https://github.com/Himadwise)
+- [said](https://github.com/engrwehlie)
 - [Afi12](https://github.com/MoAfi12)
 - [Abdullahi](https://github.com/abdullahiheart)
 - [himadwise](https://github.com/Himadwise)

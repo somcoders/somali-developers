@@ -8,7 +8,6 @@
 - [said](https://github.com/engrwehlie)
 - [Afi12](https://github.com/MoAfi12)
 - [Abdullahi](https://github.com/abdullahiheart)
-- [himadwise](https://github.com/Himadwise)
 - [Afi12](https://github.com/wahiibRamadan)
 - [Abdiqani](https://github.com/abdiqani110)
 - [Aziz](https://github.com/azizzmoe)

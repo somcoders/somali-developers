@@ -6,6 +6,7 @@
 - [mohamedabdiahmed](https://github.com/mohamedabdiahmed)
 - [himadwise](https://github.com/Himadwise)
 - [Abdimalik2004](https://github.com/abdimalik2004)
+- [Amin](https://github.com/aminmuhudin)
 - [said](https://github.com/engrwehlie)
 - [Afi12](https://github.com/MoAfi12)
 - [Abdullahi](https://github.com/abdullahiheart)

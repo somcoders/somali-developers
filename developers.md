@@ -18,6 +18,5 @@
 - [Abbaz](https://github.com/Abbaz17)
 - [Abdinajib](https://github.com/najiibmohamed11)
 - [Mohammed](https://github.com/mo-frontend)
-- [Xudayfi](https://github.com/xudayfiIbra)
-- [AbdaleGurey](https://github.com/abdalegurey/)
+- [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz)
 

@@ -16,8 +16,7 @@
 - [imranhirey](https://github.com/imranhirey)
 - [Qowle](https://github.com/yahyaqowle)
 - [Abbaz](https://github.com/Abbaz17)
+- [Abdinajib](https://github.com/najiibmohamed11)
 - [Mohammed](https://github.com/mo-frontend)
 - [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz)
-- 
-
 

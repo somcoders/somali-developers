@@ -19,4 +19,4 @@
 - [Abdinajib](https://github.com/najiibmohamed11)
 - [Mohammed](https://github.com/mo-frontend)
 - [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz)
-
+- [sadiiq-mukhtaar](https://github.com/sadiiq01)
